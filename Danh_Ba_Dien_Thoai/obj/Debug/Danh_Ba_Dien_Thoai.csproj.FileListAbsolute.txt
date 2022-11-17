@@ -13,3 +13,18 @@ D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Di
 D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
 D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
 D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe.config
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.pdb
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.AssemblyReference.cache
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmAddform.resources
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmDetail.resources
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmQLDB.resources
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmSearch.resources
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.Properties.Resources.resources
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.GenerateResource.cache
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
+C:\Users\ASUS\Music\doannhom6\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
