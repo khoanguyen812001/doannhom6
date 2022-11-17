@@ -1,0 +1,15 @@
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe.config
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.exe
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\Danh_Ba_Dien_Thoai.pdb
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\bin\Debug\FontAwesome.Sharp.dll
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.AssemblyReference.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmAddform.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmDetail.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmQLDB.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.FrmSearch.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.Properties.Resources.resources
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.GenerateResource.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CoreCompileInputs.cache
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.csproj.CopyComplete
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.exe
+D:\DH_TH01\Đồ án tin học\DanhBaDienThoai (1)\Danh_Ba_Dien_Thoai\Danh_Ba_Dien_Thoai\obj\Debug\Danh_Ba_Dien_Thoai.pdb
